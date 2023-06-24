@@ -3,4 +3,4 @@ MATLAB implementation of Hooke and Jeeves method - a multidimensional search alg
 
 #### Summary of method of Hooke and Jeeves using Line Searches
 
-![Hooke Jeeves method](Hooke_Jeeves_method.jpeg "Hooke Jeeves method")
+![Hooke Jeeves method](main/Hooke_Jeeves_method.jpeg "Hooke Jeeves method")
